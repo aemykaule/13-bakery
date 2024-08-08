@@ -19,4 +19,12 @@
     .borBottom{
         border-bottom: 1px solid #dee2e6 !important;
     }    
+    .footer{
+        top: 170rem;
+    }
+}
+
+.footer{
+    position: absolute;
+    top: 170rem;
 }
